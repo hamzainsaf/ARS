@@ -31,4 +31,8 @@ Execute the initial scripts to transform your article data into a searchable ind
 Use the `search_articles` function to find articles similar to a given query.
 
 
+### RAG
+Use the 'generate_response' function to get respnse using RAG implementation
+
+
 
