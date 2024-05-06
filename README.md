@@ -1,7 +1,7 @@
 # Article Retrieval System (ARS)
 
 ## Introduction
-This Article Retrieval System (ARS) leverages advanced NLP techniques and efficient similarity search algorithms to find and recommend articles based on textual queries. Using BERT for embeddings, PCA for dimensionality reduction, and FAISS for quick nearest neighbor searching, ARS provides an efficient and scalable solution for navigating large datasets of articles.
+This Article Retrieval System (ARS) leverages advanced NLP techniques and efficient similarity search algorithms to find and recommend articles based on textual queries.  Embeddings, PCA for dimensionality reduction, and FAISS for quick nearest neighbor searching, ARS provides an efficient and scalable solution for navigating large datasets of articles.
 
 ## Features
 1. **Text Embedding**: Converts article titles and texts into dense vector representations.
