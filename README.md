@@ -29,3 +29,6 @@ Execute the initial scripts to transform your article data into a searchable ind
 
 ### Query articles:
 Use the `search_articles` function to find articles similar to a given query.
+
+
+
