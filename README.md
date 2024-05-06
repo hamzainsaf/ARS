@@ -32,7 +32,7 @@ Use the `search_articles` function to find articles similar to a given query.
 
 
 ### RAG
-Use the 'generate_response' function to get respnse using RAG implementation
+Use the `generate_responce` function to get respnse using RAG implementation
 
 
 
