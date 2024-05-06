@@ -13,6 +13,9 @@ This Article Retrieval System (ARS) leverages advanced NLP techniques and effici
 - Python 3.9+
 - Libraries: `transformers`, `safetensors`, `langchain`, `chromadb`, `faiss-cpu`, `nltk`, `bitsandbytes`, `pandas`, `sklearn`, `tiktoken`, `sentence-transformers`, `torch`, `accelerate`
 
+
+> **Warning:** After installing the `accelerate` library, you may need to restart your kernel to ensure that all changes are properly applied. This is necessary to load the newly installed packages into the working environment.
+
 ## Usage
 
 ### Prepare your dataset:
